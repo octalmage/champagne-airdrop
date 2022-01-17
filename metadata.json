@@ -1,0 +1,33 @@
+{
+  "name": "Congratulations on $100 LUNA",
+  "description": "Just a fun NFT sent to everyone that bought LUNA in the past 30 days.",
+  "attributes": [
+    {
+      "display_type": null,
+      "trait_type": "Price",
+      "value": "100"
+    },
+    {
+      "display_type": null,
+      "trait_type": "Date",
+      "value": "24/12/2021"
+    }
+  ],
+  "properties": {
+    "name": "Congratulations on $100 LUNA",
+    "description": "Just a fun NFT sent to everyone that bought LUNA in the past 30 days.",
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Price",
+        "value": "100"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Date",
+        "value": "24/12/2021"
+      }
+    ]
+  },
+  "image": "ipfs://QmQgxdhJ3w71ShU2JvrvLq7VjK2XjZETji7HS26e9K45DU"
+}

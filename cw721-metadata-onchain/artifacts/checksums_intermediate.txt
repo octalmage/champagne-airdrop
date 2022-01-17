@@ -1,0 +1,2 @@
+383fa92729b8b589a713aec1264c616884e9b5640bfaa496e90917565e37b0ae  ./target/wasm32-unknown-unknown/release/cw721_metadata_onchain.wasm
+3fa9c4da5256d8c6d55b8dadb4479933dfb2d3d9536e49e691479649568280d0  ./target/wasm32-unknown-unknown/release/wemadeit.wasm

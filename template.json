@@ -1,0 +1,25 @@
+{
+  "token_uri": "ipfs://Qmey9jBtQrbH4yTa7saSR7PxzVfnp49R3qqMj44AfbwViY",
+  "extension": {
+    "image": "ipfs://QmQgxdhJ3w71ShU2JvrvLq7VjK2XjZETji7HS26e9K45DU",
+    "image_data": null,
+    "external_url": null,
+    "description": "Just a fun NFT sent to everyone that bought LUNA in the past 30 days.",
+    "name": "Congratulations on $100 LUNA",
+    "attributes": [
+      {
+        "display_type": null,
+        "trait_type": "Price",
+        "value": "100"
+      },
+      {
+        "display_type": null,
+        "trait_type": "Date",
+        "value": "24/12/2021"
+      }
+    ],
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null
+  }
+}
